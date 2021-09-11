@@ -44,7 +44,7 @@ export default class Main extends React.Component {
   }
 
   vueltaACero() {
-    Swal.fire('Se terminó la historia')
+    Swal.fire('Fin.')
     this.setState({
       id: dataJSON[0].id,
       historia: dataJSON[0].historia,
