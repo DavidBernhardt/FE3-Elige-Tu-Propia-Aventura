@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FE3-Elige-Tu-Propia-Aventura/static/css/main.84532a40.chunk.css",
+    "main.js": "/FE3-Elige-Tu-Propia-Aventura/static/js/main.93738796.chunk.js",
+    "main.js.map": "/FE3-Elige-Tu-Propia-Aventura/static/js/main.93738796.chunk.js.map",
+    "runtime-main.js": "/FE3-Elige-Tu-Propia-Aventura/static/js/runtime-main.3b102507.js",
+    "runtime-main.js.map": "/FE3-Elige-Tu-Propia-Aventura/static/js/runtime-main.3b102507.js.map",
+    "static/js/2.3c0efb10.chunk.js": "/FE3-Elige-Tu-Propia-Aventura/static/js/2.3c0efb10.chunk.js",
+    "static/js/2.3c0efb10.chunk.js.map": "/FE3-Elige-Tu-Propia-Aventura/static/js/2.3c0efb10.chunk.js.map",
+    "index.html": "/FE3-Elige-Tu-Propia-Aventura/index.html",
+    "static/css/main.84532a40.chunk.css.map": "/FE3-Elige-Tu-Propia-Aventura/static/css/main.84532a40.chunk.css.map",
+    "static/js/2.3c0efb10.chunk.js.LICENSE.txt": "/FE3-Elige-Tu-Propia-Aventura/static/js/2.3c0efb10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3b102507.js",
+    "static/js/2.3c0efb10.chunk.js",
+    "static/css/main.84532a40.chunk.css",
+    "static/js/main.93738796.chunk.js"
+  ]
+}
